@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Sun Jun 04 16:24:10 PDT 2017
+2.base=/Users/giuseppedonadio/Documents/mobile_dev/ch11_ex4_Reminder/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/giuseppedonadio/Documents/mobile_dev/ch11_ex4_Reminder/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+5.set=DEX
+3.base=/Users/giuseppedonadio/Documents/mobile_dev/ch11_ex4_Reminder/app/build/intermediates/res/resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=/Users/giuseppedonadio/Documents/mobile_dev/ch11_ex4_Reminder/app/build/intermediates/res/resources-debug.ap_
+count=6
+0.file=/Users/giuseppedonadio/Documents/mobile_dev/ch11_ex4_Reminder/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+5.base=/Users/giuseppedonadio/Documents/mobile_dev/ch11_ex4_Reminder/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+4.set=ANDROID_RESOURCE
+1.file=/Users/giuseppedonadio/Documents/mobile_dev/ch11_ex4_Reminder/app/build/intermediates/res/resources-debug.ap_/res/menu/reminder.xml
+1.set=ANDROID_RESOURCE
+2.file=/Users/giuseppedonadio/Documents/mobile_dev/ch11_ex4_Reminder/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_reminder.xml
+0.base=/Users/giuseppedonadio/Documents/mobile_dev/ch11_ex4_Reminder/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/giuseppedonadio/Documents/mobile_dev/ch11_ex4_Reminder/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=/Users/giuseppedonadio/Documents/mobile_dev/ch11_ex4_Reminder/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/giuseppedonadio/Documents/mobile_dev/ch11_ex4_Reminder/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+0.set=ANDROID_RESOURCE
